@@ -1,0 +1,26 @@
+@import
+ url('https://fonts.google.com/specimen/Source+Sans+Pro ');
+
+ /*mobile*/
+ /* i. Font size for all headings should be 20px*/
+
+ h1 {
+    font-size: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  h4 {
+    font-size: 20px;
+  }
+  h5 {
+    font-size: 20px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
