@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>inline css</title>
+  </head>
+  <body>
+  <h1> inline css </h1>
+  <main>
+<p style="color:blue;font-weight: bold">  
+   I'm a big, blue, <strong>strong </strong> paragraph</p>
+<p style= "color: grey">
+  I'm a simple paragraph with grey text </p>
+<p style= "color: green""font size :8px;">
+  <i> I'm a small (8px to be exact), green, <em>italic</em> paragraph </i> </p>
+<p style= "text-align:right;color: orange;">
+  <b> I'm a right-aligned, bold, orange paragraph </b></p>
+<p style= "font-family: Tahoma;color: pink;">
+ I'm a justified, pink paragraph, with a font family of Tahoma</p>
+<p "font-family:Roboto,Helvetica,sans-serif;color: purple;text-decoration-line : underline;">
+  I'm an underlined, purple paragraph, with three font families Roboto, Helvetica and sans-serif. Just in case I need to "fallback" to supported fonts.</p>
+<p "font-family: Comic Sans MS,Comic Sans,Cursive;background-color: yellow;font-weight:bold;line-height : 25px;">
+ I'm a paragraph with a yellow background and bold text. My font-family/fallbacks are "Comic Sans MS", "Comic Sans", cursive. I have a line height of 25px.</p>
+  </main>
+  </body>
+</html>  
